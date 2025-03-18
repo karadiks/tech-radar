@@ -1,0 +1,318 @@
+[
+  {
+    "name": "PostgresSQL 1-14",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Relational database for our backend services"
+  },
+  {
+    "name": "PostgresSQL 15",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Relational database for our backend services"
+  },
+  {
+    "name": "Oracle",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Relational database for our backend services"
+  },
+  {
+    "name": "MySQL 1-8",
+    "ring": "hold",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Relational database for our backend services""
+  },
+  {
+    "name": "Elasticsearch 1-8",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Search database for our backend services"
+  },
+  {
+    "name": "OpenSearch 2",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Search database for our backend services"
+  },
+  {
+    "name": "Redis",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "In memory datastore for our backend services"
+  },
+  {
+    "name": "RabbitMQ",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "An open-source message-broker for our backend services"
+  },
+  {
+    "name": "Docker",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "We build our backend application as Docker image"
+  },
+  {
+    "name": "Docker Desktop",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "We build our backend application as Docker image"
+  },
+  {
+    "name": "Kubernetes",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "We use Kubernetes for container orchestration tool"
+  },
+  {
+    "name": "Apache Superset",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Superset is a modern data exploration and data visualization platform"
+  },
+  {
+    "name": "Apache Airflow",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Apache Airflow® is a platform created by the community to programmatically author, schedule and monitor workflows."
+  },
+  {
+    "name": "Rancher",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Rancher is a complete software stack for teams adopting containers."
+  },
+
+  {
+    "name": "Nginx",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Nginx is our main web server for new backend"
+  },
+  {
+    "name": "Jenkins",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Jenkins is our main automation server for CI/CD"
+  },
+  {
+    "name": "PHP 7",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "PHP Programming Langauge"
+  },
+  {
+    "name": "PHP 8",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "PHP Programming Langauge"
+  },
+  {
+    "name": "Laravel 8-11",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Laravel is one of our main framework for backend"
+  },
+  {
+    "name": Laravel 12",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "Laravel is one of our main framework for backend"
+  },
+  {
+    "name": "Flutter",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "TRUE",
+    "description": "A modern programming language that makes developers happier"
+  },
+  {
+    "name": "Adonis Js",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Same as Laravel for path development"
+  },
+  {
+    "name": "Java 7",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Java Programming Langauge"
+  },
+  {
+    "name": "ZK Framework",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Java Programming Langauge"
+  },
+  {
+    "name": "CodeIgniter",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "PHP Programming Langauge"
+  },
+  {
+    "name": K6",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Performance Testing"
+  },
+  {
+    "name": "Apache Superset",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Rancher is a complete software stack for teams adopting containers."
+  },
+  {
+    "name": "Apache Airflow",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Mongock is data migratin for MongoDB, we are not using this anymore, please use Blibli Data Migration"
+  },
+  {
+    "name": "Flyway",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Flyway is data migration for Relational DB, we are not using this anymore, please use Blibli Data Migration"
+  },
+  {
+    "name": "Apache Maven",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Apache Maven is our main build tool for backend"
+  },
+  {
+    "name": "Monolith Architecture",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Monolith Architecture"
+  },
+  {
+    "name": "Microservices Architecture",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Microservices Architecture"
+  },
+  {
+    "name": "Event-Driven Architecture",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Event-Driven Architecture"
+  },
+  {
+    "name": "Reactive Programming",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Reactive Programming"
+  },
+  {
+    "name": "Non-Blocking IO",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Non-Blocking IO"
+  },
+  {
+    "name": "Virtual Thread",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Virtual Thread"
+  },
+  {
+    "name": "Dependency Injection",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Dependency Injection"
+  },
+  {
+    "name": "CQRS",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Command Query Responsibility Segregation"
+  },
+  {
+    "name": "API Gateway",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "API Gateway"
+  },
+  {
+    "name": "Backend for Frontend",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Backend for Frontend"
+  },
+  {
+    "name": "Circuit Breaker",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Circuit Breaker"
+  },
+  {
+    "name": "Client Side Discovery",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Circuit Breaker"
+  },
+  {
+    "name": "Distributed Tracing",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Distributed Tracing"
+  },
+  {
+    "name": "Service / Facade Patterns",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Service / Facade Patterns"
+  },
+  {
+    "name": "Command Patterns",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Command Patterns"
+  }
+]
