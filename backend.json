@@ -197,20 +197,6 @@
     "description": "Mongock is data migratin for MongoDB, we are not using this anymore, please use Blibli Data Migration"
   },
   {
-    "name": "Flyway",
-    "ring": "hold",
-    "quadrant": "Tools",
-    "isNew": "FALSE",
-    "description": "Flyway is data migration for Relational DB, we are not using this anymore, please use Blibli Data Migration"
-  },
-  {
-    "name": "Apache Maven",
-    "ring": "adopt",
-    "quadrant": "Tools",
-    "isNew": "FALSE",
-    "description": "Apache Maven is our main build tool for backend"
-  },
-  {
     "name": "Monolith Architecture",
     "ring": "hold",
     "quadrant": "Techniques",
@@ -260,13 +246,6 @@
     "description": "Dependency Injection"
   },
   {
-    "name": "CQRS",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "FALSE",
-    "description": "Command Query Responsibility Segregation"
-  },
-  {
     "name": "API Gateway",
     "ring": "adopt",
     "quadrant": "Techniques",
@@ -279,40 +258,6 @@
     "quadrant": "Techniques",
     "isNew": "FALSE",
     "description": "Backend for Frontend"
-  },
-  {
-    "name": "Circuit Breaker",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "FALSE",
-    "description": "Circuit Breaker"
-  },
-  {
-    "name": "Client Side Discovery",
-    "ring": "hold",
-    "quadrant": "Techniques",
-    "isNew": "FALSE",
-    "description": "Circuit Breaker"
-  },
-  {
-    "name": "Distributed Tracing",
-    "ring": "trial",
-    "quadrant": "Techniques",
-    "isNew": "FALSE",
-    "description": "Distributed Tracing"
-  },
-  {
-    "name": "Service / Facade Patterns",
-    "ring": "hold",
-    "quadrant": "Techniques",
-    "isNew": "FALSE",
-    "description": "Service / Facade Patterns"
-  },
-  {
-    "name": "Command Patterns",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "FALSE",
-    "description": "Command Patterns"
   }
+  
 ]
