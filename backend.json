@@ -25,7 +25,7 @@
     "ring": "hold",
     "quadrant": "Platforms",
     "isNew": "FALSE",
-    "description": "Relational database for our backend services""
+    "description": "Relational database for our backend services"
   },
   {
     "name": "Elasticsearch 1-8",
@@ -134,7 +134,7 @@
     "description": "Laravel is one of our main framework for backend"
   },
   {
-    "name": Laravel 12",
+    "name": "Laravel 12",
     "ring": "adopt",
     "quadrant": "Languages and Frameworks",
     "isNew": "TRUE",
@@ -176,7 +176,7 @@
     "description": "PHP Programming Langauge"
   },
   {
-    "name": K6",
+    "name": "K6",
     "ring": "adopt",
     "quadrant": "Tools",
     "isNew": "FALSE",
