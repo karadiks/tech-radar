@@ -155,6 +155,20 @@
     "description": "Same as Laravel for path development"
   },
   {
+    "name": "React Js",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Frontend Programming"
+  },
+  {
+    "name": "Next Js",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Frontend Programming"
+  },
+  {
     "name": "Java 7",
     "ring": "hold",
     "quadrant": "Languages and Frameworks",
